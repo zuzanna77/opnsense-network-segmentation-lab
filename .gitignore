@@ -1,0 +1,8 @@
+*.iso
+*.7z
+*.bz2
+*.vdi
+*.vbox
+*.ova
+config*.xml
+hasla.txt
